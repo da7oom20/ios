@@ -1,6 +1,11 @@
 body {
-	background: none;
+	background: #333 url('https://pixabay.com/get/e837b20a2ff5093ecd1f4604e4484093ea6ae3d11eb2124293f7c179/fire-1235718.jpg') no-repeat center center;
 	overflow: hidden;
+}
+
+input {
+	top: 50%;
+	left: 50%;
 }
 
 .alert * {
@@ -41,6 +46,7 @@ body {
 .alert .title {
 	font-weight: 500;
 	font-size: 18px;
+	font-weight: bold;
 }
 
 .alert .text {
