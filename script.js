@@ -26,4 +26,5 @@ function iosAlert() {
 
 }
 
-iosAlert('Hello World')
+iosAlert('Hello World');
+alert('Hello');
